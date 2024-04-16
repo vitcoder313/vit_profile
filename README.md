@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" />
+<img align="right" width=400px height=400px alt="side_sticker" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" />
 
 ✔  I’m currently working on a freelancer job  <br>
 💬 Can be working on PHP, Laravel, NodeJS, NestJS, ExpressJS <br>
