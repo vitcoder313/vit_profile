@@ -8,9 +8,9 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" />
 
-✔  I’m currently working on freelancer job  <br>
-💬 Can be working on PHP, Larave;, NodeJS, NestJS, ExpressJS
-🌱 I’m currently learning in some front-end framework (ReactJS) <br>
+✔  I’m currently working on a freelancer job  <br>
+💬 Can be working on PHP, Laravel, NodeJS, NestJS, ExpressJS <br>
+🌱 I’m currently learning some front-end frameworks (ReactJS) <br>
 📫 How to reach me nvviet.dn@gmail.com <br>
 ⚡ Quote: No code no life <br>
 
