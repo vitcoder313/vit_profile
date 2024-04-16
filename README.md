@@ -1,11 +1,5 @@
-
-<h1 align="center">
- 👋 Hi, I'm Nguyen Van Viet (V!t)!
-</h1>
- 
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F739&background=608CFF00&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Nguyen+Van+Viet+(V!t);I'm+a+Web+Developer" alt="Typing SVG" />
 </p>
 
 </br>
