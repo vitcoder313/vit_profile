@@ -1,162 +1,152 @@
-<h2 align="center">
-  <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
-  Hello,World!
-  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
-</h2>
 
-<h2 align="center">
-    I'm
-    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
-    Akshat Tamrakar
-    <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
-</h2>
-
-<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
-
-<p align="left">
-  <samp>
-    <br><br>
-    Full stack developer
-    <br><br>
-     & mobile developer...
-    <br><br>
-    Focusing on building beautiful
-    <br><br> 
-    & native applications...
-  </samp>
-</p>
-
-<hr/>
-
-<h2 align="center">About</h2>
-
-- **Plateforms :** **_Web, Desktop, <img src="https://www.gstatic.com/devrel-devsite/prod/v36e9b4a2fdc696650f09851e8c880b958655492821ded3455f80aaef87b6b52b/android/images/lockup.svg" width=70/>, Server_**
-- **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-
-- **Frameworks :** <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />, <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width=80/>
-
-- **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/cloud_firestore.svg" width=100/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/postgresql.svg" width=80/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/oracle.svg" width=80/>
-
-- **Hobbies :** **_Manga📜Reading_,<img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>** **_, Watching👀Anime_**
-
-<hr/>
-
-<p align="left" >
-<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
-  <img align="right" alt="Angular" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/angular.svg"/>
- <img width="10%" alt="NestJS" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/nestjs.svg"/>
-  <img width="10%" alt="Flutter" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/flutterio.svg"/>
-  <br />
-  <br />
-  <img width="10%" alt="Django" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/djangoproject.svg"/>
-</p>
-<br/>
-<br/>
-<p  align="right" >
-  <img  align="right" alt="ArrowUpward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_upward.svg"/>
-  <br/>
-  <br/>
-  <h3 align="right">FAVOURITE FRAMEWORKS</h3>
-  <img  align="left" alt="TypeScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/typescriptlang.svg"/>
-  <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
-  <img align="left" alt="Dart" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/dartlang.svg"/>
-  <br />
-  <br />
-  <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
-  <br />
-  <br />
-</p>
-
-<hr/>
+<h1 align="center">
+ 👋 Hi, I'm Nguyen Van Viet (V!t)!
+</h1>
+ 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
-  Me as a code... 
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
 </p>
 
-```javascript
-import { Akshat } from "Awesome";
+</br>
 
-const languages = ["Python", "Typescript", "Javascript", "Dart", "Java", "C++"];
-const frameworks = ["Flutter", "Angular", "React", "Django", "NestJS"];
-const databases = ["PostgreSQL", "CloudFireStore", "Oracle"];
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Akshat.skills.push(...languages, ...frameworks, ...databases);
-```
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<hr/>
+✔  I’m currently working on freelancer job  <br>
+💬 Can be working on PHP, Larave;, NodeJS, NestJS, ExpressJS
+🌱 I’m currently learning in some front-end framework (ReactJS) <br>
+📫 How to reach me nvviet.dn@gmail.com <br>
+⚡ Quote: No code no life <br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudmiehob" alt="mahmoud" /></a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+ <h2> 📊 Github Stats ....</h2>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudmiehob&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoudmiehob&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoudmiehob&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoudmiehob&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoudmiehob&theme=solarized_dark&utcOffset=8">
+	
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<h2 align="left"> 💻 Languages and Tools:</h2>
+
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+      </a>
+      <br>CSS3
+    </td>
+     <td align="center" width="96">
+      <a href="#bootstrap">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+      <a href="#js">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>
+     <td align="center" width="96">
+      <a href="#vuejs">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Vue JS
+    </td>
+  </tr>
+
+  <tr>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <a href="#livewire">
+            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
+                alt="livewire" />
+        </a>
+        <br>Livewire
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+   <tr>
+      <td align="center" width="96">
+      <a href="#ubuntu" >
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+      <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+      <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>VS Code
+    </td>
+      <td align="center" width="96">
+      <a href="#postman" >
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Postman
+    </td>
+
+  </tr>
+</table>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ## Connect with me:
 
 <p align="center">
-  <a href="https://github.com/dev-akshat/state-of-matter">
-    <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=state-of-matter" />
-  </a>
-  <a href="https://github.com/dev-akshat/HackerNews">
-    <img align="center" alt="HackerNews" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=HackerNews" />
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+   <a href="https://www.facebook.com/profile.php?id=100010194910703"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+   <a href="mailto:mahmoudmiehob@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <a href="https://www.youtube.com/channel/UCuGcIO6rrQkwZr4ex5oaB3w"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
 
-<hr/>
+</p> -->
 
+## ❤ Views and Followers
+
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+
+
+<h2 align='left'>Thank You ❤</h2>
 <p align="center">
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-akshat&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-akshat&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
-</p>
-
-<br/>
-
-<p align="center"> 
-  <samp>
-    Profile Views Count
-  </samp>
-</p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-akshat profile views" /> 
-</p>
-
-<hr/>
-
-<h2 align="center">Find me on</h2>
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/akshat-tamrakar">
-    <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.hackerrank.com/dev_akshat">
-    <img  alt="HackerRank" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/hacker_rank.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://github.com/dev-akshat">
-    <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.instagram.com/a.k.s.h.a.t">
-    <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.facebook.com/i.am.akshat.tamrakar">
-    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://twitter.com/AkshatTamraka12">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
-  </a>
-
-</p>
-
-<hr/>
-
-<p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
-</p>
-
-<p align="center">
-  Made with ❤️ in Bhopal
-</p>
-
------
-Credits: [Akshat Tamrakar](https://github.com/dev-akshat)
-
-Last Edited on: 05/12/2020
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>	
+ 
+<br>
